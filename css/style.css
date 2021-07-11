@@ -80,7 +80,7 @@
 .left__nav-link:hover {
   color: inherit;
   text-decoration: none;
-  background-color: rgba(0, 0, 0, 0.4); /* 0.4 = transparence => 1=opaque, 0=transparent */
+  background-color: rgba(0, 0, 0, 0.4);
   border-radius: 6px;
 }
 
